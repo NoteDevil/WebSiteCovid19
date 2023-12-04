@@ -32,3 +32,4 @@ yarn-error.log*
 
 # Node Version Manager
 .nvmrc
+/package-lock.json
